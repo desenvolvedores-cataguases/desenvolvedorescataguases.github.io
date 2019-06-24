@@ -1,17 +1,5 @@
-# Eventos
+# Encontros
 
-## Formatos
-### Talks 
-Apresentação de um conteudo por um "palestrante" relacionado ao desenvolvimento. 
-	
-### Codelab / Hands-on 
-Apresentação de um conteúdo prático  "passo-a-passo", onde os participantes também fazem esse passo a passo.
-	
-### Tech Talks 
-O mediador propõe um tema antecipadamente. Será uma discussão com todos os participantes sobre conteudos relacionados a TI no tema proposto.
-	
-### Fishbowl 
-...
 
 ### Propostas de evento
 Gostaria de propor um evento? Basta criar uma [issue](https://github.com/desenvolvedores-cataguases/desenvolvedorescataguases.github.io/issues) seguindo:
@@ -36,3 +24,15 @@ Aqui vai a descrição da proposta da sua talk !
 Opcional  
 ```
 
+## Formatos
+### Talks 
+Apresentação de um conteudo por um "palestrante" relacionado ao desenvolvimento. 
+	
+### Codelab / Hands-on 
+Apresentação de um conteúdo prático  "passo-a-passo", onde os participantes também fazem esse passo a passo.
+	
+### Tech Talks 
+O mediador propõe um tema antecipadamente. Será uma discussão com todos os participantes sobre conteudos relacionados a TI no tema proposto.
+	
+### Fishbowl 
+...
