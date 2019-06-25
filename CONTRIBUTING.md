@@ -1,7 +1,7 @@
 ### Criando repositório da apresentação
 
 #### Template
-Ao criar novo repositório com padrão de nome conforme adiante, deve selecionar o template do repositório, veja:
+Ao criar novo repositório com padrão de nome conforme [adiante](#), deve selecionar o template do repositório, veja:
 
 ![Respositório template: yyyy-mm-dd-tipo-nome](images/using_template.png)
 
@@ -16,7 +16,7 @@ Criar o repositório seguindo com nome `yyyy-mm-dd-type-name`, por exemplo `2019
 - Alterar **README.md** com informações da apresentação e palestrante(s);
 - Colocar código fonte e documentos nas pastas correspondentes;
 
-## Arquivos Markdown (.md)
+### Arquivos Markdown (.md)
 o Markdown é uma formatação simples para arquivo de texto, com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" No qual o GitHub utiliza para exibir os arquivos formatados desta forma.
 
 Para saber como formatar arquivos como o README e outros:

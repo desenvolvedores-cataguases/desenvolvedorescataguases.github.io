@@ -5,7 +5,7 @@
 Gostaria de propor um evento? Basta criar uma [issue](https://github.com/desenvolvedorescataguases/desenvolvedorescataguases.github.io/issues) seguindo:
 
 - **Título da issue** é o nome da apresentação
-- **type** qual o [tipo](#formatos) da apresentação (talk, codelab, ...)
+- **type** qual o [tipo](#tipos-de-apresentação) da apresentação (talk, codelab, ...)
 - Marque somente o label: **Proposta de evento**
 - Corpo da issue, use o template:
 
