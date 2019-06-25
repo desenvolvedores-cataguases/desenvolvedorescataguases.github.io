@@ -1,7 +1,7 @@
 ### Criando repositório da apresentação
 
 #### Template
-Ao criar novo repositório com padrão de nome conforme [adiante](#), deve selecionar o template do repositório, veja:
+Ao criar novo repositório com padrão de nome conforme [adiante](#nome-do-repositório), deve selecionar o template do repositório, veja:
 
 ![Respositório template: yyyy-mm-dd-tipo-nome](images/using_template.png)
 
