@@ -2,16 +2,18 @@
 
 
 ### Propostas de evento
-Gostaria de propor um evento? Basta criar uma [issue](https://github.com/desenvolvedores-cataguases/desenvolvedorescataguases.github.io/issues) seguindo:
+Gostaria de propor um evento? Basta criar uma [issue](https://github.com/desenvolvedorescataguases/desenvolvedorescataguases.github.io/issues) seguindo:
 
-- **Título da issue** é o nome da Talk
+- **Título da issue** é o nome da apresentação
+- **type** qual o [tipo](#formatos) da apresentação (talk, codelab, ...)
 - Marque somente o label: **Proposta de evento**
 - Corpo da issue, use o template:
+
 ```markdown
-## [Nome da talk aqui]
+## type - nome_da_apresentacao
 
 ## Descrição
-Aqui vai a descrição da proposta da sua talk !
+Aqui vai a descrição da proposta da sua apresentação !
 
 ### Palestrante(s)
 - Nome aqui
@@ -24,13 +26,12 @@ Aqui vai a descrição da proposta da sua talk !
 Opcional  
 ```
 
-## Formatos
-### Talks 
-Apresentação de um conteudo por um "palestrante" relacionado ao desenvolvimento. 
-	
-### Codelab 
-Apresentação de um conteúdo prático  "passo-a-passo", onde os participantes também fazem esse passo a passo.
-	
-### Fishbowl
-O mediador propõe um tema antecipadamente. Será uma discussão com todos os participantes sobre conteudos relacionados a TI no tema proposto.
+## Tipos de Apresentação
+### Talks
+Apresentação de um conteúdo por um "palestrante" relacionado ao desenvolvimento.
 
+### Codelab
+Apresentação de um conteúdo prático  "passo-a-passo", onde os participantes também fazem esse passo a passo.
+
+### Fishbowl
+O mediador propõe um tema antecipadamente. Será uma discussão com todos os participantes sobre conteúdos relacionados a TI no tema proposto.
