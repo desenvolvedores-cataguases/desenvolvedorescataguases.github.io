@@ -30,8 +30,11 @@ Opcional
 ### Talks
 Apresentação de um conteúdo por um "palestrante" relacionado ao desenvolvimento.
 
+### Hands-on
+Apresentação de um conteúdo prático "passo-a-passo", onde o palestrante coloca a mão.
+
 ### Codelab
-Apresentação de um conteúdo prático  "passo-a-passo", onde os participantes também fazem esse passo a passo.
+Apresentação de um conteúdo prático "passo-a-passo", onde os participantes também fazem esse passo a passo. Normalmente 
 
 ### Fishbowl
 O mediador propõe um tema antecipadamente. Será uma discussão com todos os participantes sobre conteúdos relacionados a TI no tema proposto.
