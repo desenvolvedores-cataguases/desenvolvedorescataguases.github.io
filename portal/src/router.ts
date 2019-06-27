@@ -4,6 +4,7 @@ import Home from './views/Home.vue'
 import Events from './views/Events.vue'
 import How from './views/How.vue'
 import About from './views/About.vue'
+import Supporters from './views/Supporters.vue'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/about',
       name: 'about',
       component: About
+    },
+    {
+      path: '/supporters',
+      name: 'supporters',
+      component: Supporters
     }
   ]
 })

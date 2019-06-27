@@ -8,14 +8,14 @@
       <v-btn flat to="/">
         <span class="mr-2">Home</span>
       </v-btn>
-      <v-btn flat to="events">
-        <span class="mr-2">Eventos</span>
+      <v-btn flat to="about">
+        <span class="mr-2">Quem somos ?</span>
       </v-btn>
       <v-btn flat to="how">
         <span class="mr-2">Como participar ?</span>
       </v-btn>
-      <v-btn flat to="about">
-        <span class="mr-2">Quem somos ?</span>
+        <v-btn flat to="supporters">
+        <span class="mr-2">Apoiadores</span>
       </v-btn>
     </v-toolbar>
     <v-content>
@@ -25,22 +25,16 @@
         </v-layout>
       </v-container>
     </v-content>
-    <v-footer>
-      <v-container>
-        <v-layout>
-          <a
-            href="https://br.freepik.com/fotos-vetores-gratis/negocio"
-          >Negócio vetor criado por rawpixel.com - br.freepik.com</a>
-        </v-layout>
-      </v-container>
-    </v-footer>
+    <AppFooter></AppFooter>
   </v-app>
 </template>
 
 <script>
+import AppFooter from '@/components/AppFooter.vue'
+
 export default {
   name: "App",
-  components: {},
+  components: {AppFooter},
   data() {
     return {
       //
