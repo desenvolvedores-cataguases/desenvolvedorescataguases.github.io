@@ -1,8 +1,8 @@
 <template>
   <v-container>
     <v-layout align-center justify-center column fill-height>
-      <span class="display-1 font-weight-thin">Como participar ?</span>
-      <span class="subheading font-weight-light ma-4">
+      <span class="display-2 font-weight-thin">Como participar ?</span>
+      <span class="subheading font-weight-light mt-4 mb-4">
         Para participar é fácil basta se inscrever em nosso <LinkMeetup>Meetup</LinkMeetup> 
         e comparecer aos nossos eventos.  
       </span>
