@@ -11,7 +11,7 @@
         </a>
         <a
           class="icone"
-          href="https://www.meetup.com/pt-BR/Grupo-de-Desenvolvedores-em-Cataguases/"
+          href="https://www.meetup.com/pt-BR/GDG-Cataguases/"
           title="Clique para ver nosso Meetup"
         >
           <v-icon color="white">fab fa-meetup</v-icon>
