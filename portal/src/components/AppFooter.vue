@@ -4,14 +4,14 @@
       <v-flex md8>
         <a
           class="icone"
-          href="https://github.com/desenvolvedorescataguases"
+          href="https://github.com/gdgcataguases"
           title="Clique para ver nosso GitHub"
         >
           <v-icon color="white">fab fa-github-alt</v-icon>
         </a>
         <a
           class="icone"
-          href="https://www.meetup.com/pt-BR/Grupo-de-Desenvolvedores-em-Cataguases/"
+          href="https://www.meetup.com/pt-BR/GDG-Cataguases/"
           title="Clique para ver nosso Meetup"
         >
           <v-icon color="white">fab fa-meetup</v-icon>
