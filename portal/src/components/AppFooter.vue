@@ -4,7 +4,7 @@
       <v-flex md8>
         <a
           class="icone"
-          href="https://github.com/desenvolvedorescataguases"
+          href="https://github.com/gdgcataguases"
           title="Clique para ver nosso GitHub"
         >
           <v-icon color="white">fab fa-github-alt</v-icon>
