@@ -6,7 +6,7 @@
           <v-flex mb-4>
             <span
               class="display-2 font-weight-thin"
-            >Bem-vindo(a) ao grupo de desenvolvedores em Cataguases</span>
+            >Bem-vindo(a) ao GDG Cataguases</span>
           </v-flex>
           <v-flex>
             <span

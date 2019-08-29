@@ -1,9 +1,7 @@
 <template>
   <v-app>
     <v-toolbar color="white" app flat>
-      <v-toolbar-title class="display-1 text-uppercase">
-        <span>GDC</span>
-      </v-toolbar-title>
+      <v-img src="./images/logo.png"></v-img>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat to="#Home">
@@ -52,6 +50,6 @@ import SubjectMatter from "@/components/SubjectMatter.vue";
 
 export default {
   name: "App",
-  components: { SubjectMatter, Home, About, How, Supporters, AppFooter },
+  components: { SubjectMatter, Home, About, How, Supporters, AppFooter }
 };
 </script>
