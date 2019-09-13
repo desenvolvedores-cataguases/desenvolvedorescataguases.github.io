@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-toolbar color="white" app flat>
-      <v-img src="./images/logo.png"></v-img>
+      <v-img src="./images/logo.png" max-width="250"></v-img>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat to="#Home">
